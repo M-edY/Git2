@@ -5,3 +5,5 @@ print("Hello World")
 for i in range(10):
     print(i)   
 #completed the for loop to print numbers from 0 to 9
+
+print("I Love you <3")
